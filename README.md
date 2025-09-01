@@ -1,5 +1,4 @@
-# Object-Oriented-Programming-Oops-through-Java
-A collection of Java programs organized chapter-wise to learn and practice Object-Oriented Programming concepts.
+
 # 📘 OOPs through Java  
 
 A structured collection of **Java programs** demonstrating Object-Oriented Programming concepts.  
